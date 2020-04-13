@@ -1,6 +1,10 @@
 # SupremeMonitor
 Restock monitor for [Supreme](https://supremenewyork.com).
 
+### TODO:
+- [ ] Add EU Support
+- [ ] Add Multiple Tasks
+
 ### Installation
 Setup:
 
